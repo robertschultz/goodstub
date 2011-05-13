@@ -1,0 +1,17 @@
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Service.Client.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Service.Client.pdb
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Data.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Service.Contract.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\FluentNHibernate.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\NHibernate.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Iesi.Collections.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Antlr3.Runtime.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Remotion.Data.Linq.dll
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Data.pdb
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\Goodstub.Service.Contract.pdb
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\FluentNHibernate.pdb
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\FluentNHibernate.xml
+C:\Development\Goodstub\Goodstub.Service.Client\bin\Debug\NHibernate.xml
+C:\Development\Goodstub\Goodstub.Service.Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Goodstub\Goodstub.Service.Client\obj\Debug\Goodstub.Service.Client.dll
+C:\Development\Goodstub\Goodstub.Service.Client\obj\Debug\Goodstub.Service.Client.pdb

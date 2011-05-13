@@ -1,0 +1,54 @@
+﻿body
+{
+    background-color: #ffffff;
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+}
+.container_12 div
+{
+    border: 0px black solid;
+}
+.headergap
+{
+    height: 2px;
+}
+.header
+{
+    height: 100%;
+}
+.header h3
+{
+    font-size: 30px;
+    margin: 0px;
+}
+.tabs
+{
+}
+.tabs .tab
+{
+    -moz-border-radius: 15px;
+    border-radius: 5px 5px 0 0;
+    background-color: #eeeeee;
+    padding: 5px 10px 5px 10px;
+    margin: 0 2px 0 0;
+    float: left;
+}
+.subnavigation
+{
+    text-align: right;
+ 
+    font-weight: bold;
+}
+.subnavigation a
+{
+    margin-right: 7px;
+}
+.subnavigation a:last-child
+{
+  
+}
+.content
+{
+   
+}

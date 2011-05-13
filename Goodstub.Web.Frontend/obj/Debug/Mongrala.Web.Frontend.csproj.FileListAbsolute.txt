@@ -1,0 +1,14 @@
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Mongrala.Web.Frontend.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Mongrala.Web.Frontend.pdb
+C:\Development\Mongrala\Mongrala.Web.Frontend\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Mongrala\Mongrala.Web.Frontend\obj\Debug\Mongrala.Web.Frontend.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\obj\Debug\Mongrala.Web.Frontend.pdb
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.xml
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Interception.xml
+C:\Development\Mongrala\Mongrala.Web.Frontend\bin\Microsoft.Practices.Unity.Interception.Configuration.xml

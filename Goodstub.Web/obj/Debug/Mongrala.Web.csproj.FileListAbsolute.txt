@@ -1,0 +1,5 @@
+C:\Development\Mongrala\Mongrala.Web\bin\Debug\Mongrala.Web.dll
+C:\Development\Mongrala\Mongrala.Web\bin\Debug\Mongrala.Web.pdb
+C:\Development\Mongrala\Mongrala.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Mongrala\Mongrala.Web\obj\Debug\Mongrala.Web.dll
+C:\Development\Mongrala\Mongrala.Web\obj\Debug\Mongrala.Web.pdb

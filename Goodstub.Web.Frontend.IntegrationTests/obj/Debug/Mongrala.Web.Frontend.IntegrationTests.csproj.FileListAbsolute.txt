@@ -1,0 +1,5 @@
+C:\Development\Mongrala\Mongrala.Web.Frontend.IntegrationTests\bin\Debug\Mongrala.Web.Frontend.IntegrationTests.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend.IntegrationTests\bin\Debug\Mongrala.Web.Frontend.IntegrationTests.pdb
+C:\Development\Mongrala\Mongrala.Web.Frontend.IntegrationTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Mongrala\Mongrala.Web.Frontend.IntegrationTests\obj\Debug\Mongrala.Web.Frontend.IntegrationTests.dll
+C:\Development\Mongrala\Mongrala.Web.Frontend.IntegrationTests\obj\Debug\Mongrala.Web.Frontend.IntegrationTests.pdb

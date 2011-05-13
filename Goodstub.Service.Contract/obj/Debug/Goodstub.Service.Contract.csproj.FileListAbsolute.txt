@@ -1,0 +1,15 @@
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Goodstub.Service.Contract.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Goodstub.Service.Contract.pdb
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Goodstub.Data.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\FluentNHibernate.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\NHibernate.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Iesi.Collections.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Antlr3.Runtime.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Remotion.Data.Linq.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\Goodstub.Data.pdb
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\FluentNHibernate.pdb
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\FluentNHibernate.xml
+C:\Development\Goodstub\Goodstub.Service.Contract\bin\Debug\NHibernate.xml
+C:\Development\Goodstub\Goodstub.Service.Contract\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Goodstub\Goodstub.Service.Contract\obj\Debug\Goodstub.Service.Contract.dll
+C:\Development\Goodstub\Goodstub.Service.Contract\obj\Debug\Goodstub.Service.Contract.pdb

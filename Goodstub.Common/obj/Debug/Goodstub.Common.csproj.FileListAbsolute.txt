@@ -1,0 +1,10 @@
+C:\Development\Mongrala\Mongrala.Common\bin\Debug\Goodstub.Common.dll
+C:\Development\Mongrala\Mongrala.Common\bin\Debug\Goodstub.Common.pdb
+C:\Development\Mongrala\Mongrala.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Mongrala\Mongrala.Common\obj\Debug\Goodstub.Common.dll
+C:\Development\Mongrala\Mongrala.Common\obj\Debug\Goodstub.Common.pdb
+C:\Development\Goodstub\Goodstub.Common\bin\Debug\Goodstub.Common.dll
+C:\Development\Goodstub\Goodstub.Common\bin\Debug\Goodstub.Common.pdb
+C:\Development\Goodstub\Goodstub.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\Goodstub\Goodstub.Common\obj\Debug\Goodstub.Common.dll
+C:\Development\Goodstub\Goodstub.Common\obj\Debug\Goodstub.Common.pdb
