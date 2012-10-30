@@ -1,0 +1,4 @@
+C:\Development\Goodbpm\Goodbpm.Web.Common\bin\Debug\Goodbpm.Web.Common.dll
+C:\Development\Goodbpm\Goodbpm.Web.Common\bin\Debug\Goodbpm.Web.Common.pdb
+C:\Development\Goodbpm\Goodbpm.Web.Common\obj\Debug\Goodbpm.Web.Common.dll
+C:\Development\Goodbpm\Goodbpm.Web.Common\obj\Debug\Goodbpm.Web.Common.pdb

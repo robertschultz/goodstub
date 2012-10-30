@@ -1,8 +1,0 @@
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\obj\Debug\ResolveAssemblyReference.cache
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\bin\Debug\Mongrala.Web.Frontend.UnitTests.dll
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\bin\Debug\Mongrala.Web.Frontend.UnitTests.pdb
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\bin\Debug\Moq.dll
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\obj\Debug\Mongrala.Web.Frontend.UnitTests.dll
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\obj\Debug\Mongrala.Web.Frontend.UnitTests.pdb
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\bin\Debug\Moq.pdb
-C:\Development\Mongrala\Mongrala.Web.Frontend.UnitTests\bin\Debug\Moq.xml

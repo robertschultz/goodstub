@@ -1,0 +1,12 @@
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\Goodbpm.Domain.dll
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\Goodbpm.Domain.pdb
+C:\Development\Goodbpm\Goodbpm.Domain\obj\Debug\Goodbpm.Domain.dll
+C:\Development\Goodbpm\Goodbpm.Domain\obj\Debug\Goodbpm.Domain.pdb
+C:\Development\Goodbpm\Goodbpm.Domain\obj\Debug\Goodbpm.Domain.csprojResolveAssemblyReference.cache
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\Goodbpm.Domain.dll.config
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Bson.pdb
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Driver.pdb
+C:\Development\Goodbpm\Goodbpm.Domain\bin\Debug\MongoDB.Driver.xml

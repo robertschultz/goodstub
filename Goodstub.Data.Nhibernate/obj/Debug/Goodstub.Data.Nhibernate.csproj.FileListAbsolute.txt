@@ -1,5 +1,0 @@
-C:\Development\Goodstub\Goodstub.Data.Nhibernate\bin\Debug\Goodstub.Data.Nhibernate.dll
-C:\Development\Goodstub\Goodstub.Data.Nhibernate\bin\Debug\Goodstub.Data.Nhibernate.pdb
-C:\Development\Goodstub\Goodstub.Data.Nhibernate\obj\Debug\ResolveAssemblyReference.cache
-C:\Development\Goodstub\Goodstub.Data.Nhibernate\obj\Debug\Goodstub.Data.Nhibernate.dll
-C:\Development\Goodstub\Goodstub.Data.Nhibernate\obj\Debug\Goodstub.Data.Nhibernate.pdb

@@ -1,0 +1,9 @@
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Data.dll
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Data.pdb
+C:\Development\Goodbpm\Goodbpm.Data\obj\Debug\Goodbpm.Data.csprojResolveAssemblyReference.cache
+C:\Development\Goodbpm\Goodbpm.Data\obj\Debug\Goodbpm.Data.dll
+C:\Development\Goodbpm\Goodbpm.Data\obj\Debug\Goodbpm.Data.pdb
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Data.Mongo.dll
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Domain.dll
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Data.Mongo.pdb
+C:\Development\Goodbpm\Goodbpm.Data\bin\Debug\Goodbpm.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\Goodstub.Repository.dll.config
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\Goodstub.Repository.dll
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\Goodstub.Repository.pdb
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\Goodstub.Domain.dll
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Bson.dll
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Driver.dll
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\Goodstub.Domain.pdb
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Bson.pdb
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Bson.xml
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Driver.pdb
+C:\Development\Goodstub\Goodstub.Repository\bin\Debug\MongoDB.Driver.xml
+C:\Development\Goodstub\Goodstub.Repository\obj\Debug\Goodstub.Repository.csprojResolveAssemblyReference.cache
+C:\Development\Goodstub\Goodstub.Repository\obj\Debug\Goodstub.Repository.dll
+C:\Development\Goodstub\Goodstub.Repository\obj\Debug\Goodstub.Repository.pdb

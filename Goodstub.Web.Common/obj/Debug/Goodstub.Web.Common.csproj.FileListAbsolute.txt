@@ -1,0 +1,4 @@
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\Goodstub.Web.Common.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\Goodstub.Web.Common.pdb
+C:\Development\Goodstub\Goodstub.Web.Common\obj\Debug\Goodstub.Web.Common.dll
+C:\Development\Goodstub\Goodstub.Web.Common\obj\Debug\Goodstub.Web.Common.pdb

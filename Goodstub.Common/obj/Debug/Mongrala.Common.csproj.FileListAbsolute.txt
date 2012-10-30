@@ -1,5 +1,0 @@
-C:\Development\Mongrala\Mongrala.Common\bin\Debug\Mongrala.Common.dll
-C:\Development\Mongrala\Mongrala.Common\bin\Debug\Mongrala.Common.pdb
-C:\Development\Mongrala\Mongrala.Common\obj\Debug\ResolveAssemblyReference.cache
-C:\Development\Mongrala\Mongrala.Common\obj\Debug\Mongrala.Common.dll
-C:\Development\Mongrala\Mongrala.Common\obj\Debug\Mongrala.Common.pdb

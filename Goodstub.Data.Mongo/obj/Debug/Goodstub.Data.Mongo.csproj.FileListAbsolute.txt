@@ -1,9 +1,0 @@
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\Goodstub.Data.Mongo.dll
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\Goodstub.Data.Mongo.pdb
-C:\Development\Goodstub\Goodstub.Data.Mongo\obj\Debug\ResolveAssemblyReference.cache
-C:\Development\Goodstub\Goodstub.Data.Mongo\obj\Debug\Goodstub.Data.Mongo.dll
-C:\Development\Goodstub\Goodstub.Data.Mongo\obj\Debug\Goodstub.Data.Mongo.pdb
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\MongoDB.Bson.dll
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\MongoDB.Driver.dll
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\MongoDB.Bson.pdb
-C:\Development\Goodstub\Goodstub.Data.Mongo\bin\Debug\MongoDB.Driver.pdb

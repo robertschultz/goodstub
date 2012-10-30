@@ -1,0 +1,11 @@
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\Goodstub.Domain.dll.config
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\Goodstub.Domain.dll
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\Goodstub.Domain.pdb
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Bson.pdb
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Driver.pdb
+C:\Development\Goodstub\Goodstub.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Development\Goodstub\Goodstub.Domain\obj\Debug\Goodstub.Domain.dll
+C:\Development\Goodstub\Goodstub.Domain\obj\Debug\Goodstub.Domain.pdb

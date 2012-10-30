@@ -1,0 +1,5 @@
+﻿#hero {
+    background-color: #333;
+    color: #fff;
+    background-image: -webkit-radial-gradient(center top, ellipse farthest-side, #4C4C4C 30%, #333 100%);
+}

@@ -1,0 +1,5 @@
+C:\Development\Goodbpm\Goodbpm.Common\bin\Debug\Goodbpm.Common.dll
+C:\Development\Goodbpm\Goodbpm.Common\bin\Debug\Goodbpm.Common.pdb
+C:\Development\Goodbpm\Goodbpm.Common\obj\Debug\Goodbpm.Common.csprojResolveAssemblyReference.cache
+C:\Development\Goodbpm\Goodbpm.Common\obj\Debug\Goodbpm.Common.dll
+C:\Development\Goodbpm\Goodbpm.Common\obj\Debug\Goodbpm.Common.pdb
