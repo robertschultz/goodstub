@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goodstub.Web.Common", "Good
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goodstub.Resources", "Goodstub.Resources\Goodstub.Resources.csproj", "{D4FA8EEC-827D-41A6-8BB0-B117370D54A9}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Goodstub.Web.Cloud", "Goodstub.Web.Cloud\Goodstub.Web.Cloud.ccproj", "{DF9B99BD-88C5-470E-8041-25EB22A50BB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{D4FA8EEC-827D-41A6-8BB0-B117370D54A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FA8EEC-827D-41A6-8BB0-B117370D54A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FA8EEC-827D-41A6-8BB0-B117370D54A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9B99BD-88C5-470E-8041-25EB22A50BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9B99BD-88C5-470E-8041-25EB22A50BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9B99BD-88C5-470E-8041-25EB22A50BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9B99BD-88C5-470E-8041-25EB22A50BB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

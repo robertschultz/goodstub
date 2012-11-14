@@ -1,1 +1,1 @@
-#hero{background-color:#333;color:#fff}body{padding-top:60px;padding-bottom:40px}#login-profile-icon{margin-top:3px}
+#hero{background-color:#333;color:#fff}#hero h2,#hero p{text-shadow:0 2px 5px #111;font-family:'Sanchez',serif}body{padding-top:60px;padding-bottom:40px}#login-profile-icon{margin-top:-5px;margin-left:10px;height:30px;width:30px}#myCarousel{width:402px;margin:0 auto}#myCarousel div.carousel-caption>p{font-size:15px!important}

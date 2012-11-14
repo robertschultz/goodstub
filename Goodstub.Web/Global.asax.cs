@@ -44,11 +44,11 @@ namespace Goodstub.Web
         protected void Application_PostAuthenticateRequest(Object sender, EventArgs e)
         {
             // Get the forms authentication cookie.
-            HttpCookie authCookie = Request.Cookies[FormsAuthentication.FormsCookieName];
+            HttpCookie cookie = Request.Cookies[FormsAuthentication.FormsCookieName];
 
-            if (authCookie != null)
+            if (cookie != null)
             {
-                FormsAuthenticationTicket authTicket = FormsAuthentication.Decrypt(authCookie.Value);
+                FormsAuthenticationTicket authTicket = FormsAuthentication.Decrypt(cookie.Value);
 
                 // Create a serializer to serialize back to an object.
                 JavaScriptSerializer serializer = new JavaScriptSerializer();
@@ -65,6 +65,10 @@ namespace Goodstub.Web
                 principal.Lastname = user.Lastname;
 
                 HttpContext.Current.User = principal;
+            }
+            else
+            {
+                 HttpContext.Current.User = new CustomPrincipal(string.Empty);
             }
         }
     }

@@ -8,6 +8,7 @@
     <meta name="author" content="">
 
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href='http://fonts.googleapis.com/css?family=Sanchez' rel='stylesheet' type='text/css'>
 
     @Styles.Render("~/Content/css")
     @Styles.Render("~/content/css/bootstrap")
@@ -22,11 +23,6 @@
     <div class="navbar navbar-fixed-top">
         <div class="navbar-inner">
             <div class="container">
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </a>
                 <a class="brand" href="/">@Labels.Goodstub</a>
                 <div class="nav-collapse collapse">
                     <ul class="nav">
@@ -52,7 +48,26 @@
         @RenderBody()
         <hr>
         <footer>
-            <p>@Html.Raw(string.Format(Labels.GoodstubCopyright, DateTime.Now.Year))</p>
+            <div class="row-fluid">
+                <div class="span7">
+                    <p>@Html.Raw(string.Format(Labels.GoodstubCopyright, DateTime.Now.Year))</p>
+                 </div>
+                <div class="span1">
+                    <a href="/about">About</a>
+                 </div>
+                 <div class="span1">
+                    <a href="/blog">Blog</a>
+                 </div>
+                 <div class="span1">
+                    <a href="/docs">Docs</a>
+                 </div>
+                 <div class="span1">
+                    <a href="/terms">Terms</a>
+                 </div>
+                 <div class="span1">
+                    <a href="/privacy">Privacy</a>
+                 </div>
+            </div>
         </footer>
     </div>
 

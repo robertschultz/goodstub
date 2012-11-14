@@ -1,10 +1,24 @@
 ﻿<div class="pull-right">
     @if (User.Identity.IsAuthenticated) {
-        <a class="brand pull-right" href="/">@string.Format("{0} {1}", User.Firstname, User.Lastname)</a><img src="http://placehold.it/22x22" class="img-polaroid pull-right" id="login-profile-icon" />
+        <ul class="nav">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="/content/image/profile.jpg" class="pull-right" id="login-profile-icon" /><b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="/">
+                            <div>
+                                <strong>@string.Format("{0} {1}", User.Firstname, User.Lastname)</strong>
+                            </div>
+                        </a>
+                    </li>
+                    <li><a href="/signout">Sign Out</a></li>
+                </ul>
+            </li>
+        </ul>
     } else {
         using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @class = "navbar-form" })) {
-            <input class="span2" type="text" placeholder="@Labels.Email">
-            <input class="span2" type="password" placeholder="@Labels.Password">
+            <input class="span2" type="text" id="Email" name="Email" placeholder="@Labels.Email">
+            <input class="span2" type="password" id="Password" name="Password" placeholder="@Labels.Password">
             <input type="submit" value="@Labels.SignIn" class="btn" />
         }
     }

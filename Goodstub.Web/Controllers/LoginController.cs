@@ -7,6 +7,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Script.Serialization;
 using System.Web.Security;
+using Goodstub.Web.Common.Security;
 
 namespace Goodstub.Web.Controllers
 {
@@ -57,23 +58,7 @@ namespace Goodstub.Web.Controllers
             {
                 if (userService.Validate(model.Email, model.Password))
                 {
-                    var user = userService.Get(model.Email);
-
-                    JavaScriptSerializer serializer = new JavaScriptSerializer();
-
-                    string userData = serializer.Serialize(user);
-
-                    FormsAuthenticationTicket authTicket = new FormsAuthenticationTicket(
-                             1,
-                             model.Email,
-                             DateTime.Now,
-                             DateTime.Now.AddMinutes(15),
-                             false,
-                             userData);
-
-                    string encTicket = FormsAuthentication.Encrypt(authTicket);
-                    HttpCookie faCookie = new HttpCookie(FormsAuthentication.FormsCookieName, encTicket);
-                    Response.Cookies.Add(faCookie);
+                    return this.SetCustomTicketAndRedirect(model.Email, userService.Get(model.Email));
                 }
             }
 
