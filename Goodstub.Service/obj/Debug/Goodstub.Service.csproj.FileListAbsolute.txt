@@ -13,3 +13,5 @@ C:\Development\Goodstub\Goodstub.Service\bin\Debug\MongoDB.Driver.xml
 C:\Development\Goodstub\Goodstub.Service\obj\Debug\Goodstub.Service.csprojResolveAssemblyReference.cache
 C:\Development\Goodstub\Goodstub.Service\obj\Debug\Goodstub.Service.dll
 C:\Development\Goodstub\Goodstub.Service\obj\Debug\Goodstub.Service.pdb
+C:\Development\Goodstub\Goodstub.Service\bin\Debug\Goodstub.Common.dll
+C:\Development\Goodstub\Goodstub.Service\bin\Debug\Goodstub.Common.pdb

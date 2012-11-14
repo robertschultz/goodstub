@@ -8,20 +8,55 @@ using System.Threading.Tasks;
 
 namespace Goodstub.Service
 {
+    /// <summary>
+    /// User service class.
+    /// </summary>
     public class UserService : IUserService
     {
+        /// <summary>
+        /// The user repository.
+        /// </summary>
         private IUserRepository userRepository = null;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="UserService" /> class.
+        /// </summary>
+        /// <param name="userRepository">The user repository.</param>
         public UserService(IUserRepository userRepository)
         {
             this.userRepository = userRepository;
         }
 
-        public IUser Get(string username)
+        /// <summary>
+        /// Gets the user by email.
+        /// </summary>
+        /// <param name="username">The email.</param>
+        /// <returns>
+        ///   <see cref="IUser" /> object.
+        /// </returns>
+        public IUser Get(string email)
         {
-            return userRepository.Get(username);
+            return userRepository.Get(email);
         }
 
+        /// <summary>
+        /// Validates the specified user.
+        /// </summary>
+        /// <param name="email">The email.</param>
+        /// <param name="password">The password.</param>
+        /// <returns></returns>
+        public bool Validate(string email, string password)
+        {
+            return userRepository.Validate(email, password);
+        }
+
+        /// <summary>
+        /// Inserts the specified user.
+        /// </summary>
+        /// <param name="user">The user.</param>
+        /// <returns>
+        ///   <see cref="IUser" /> object.
+        /// </returns>
         public IUser Insert(IUser user)
         {
             return userRepository.Insert(user);

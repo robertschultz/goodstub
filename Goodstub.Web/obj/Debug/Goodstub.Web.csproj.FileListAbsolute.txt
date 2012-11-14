@@ -54,3 +54,9 @@ C:\Development\Goodstub\Goodstub.Web\bin\MongoDB.Driver.xml
 C:\Development\Goodstub\Goodstub.Web\obj\Debug\Goodstub.Web.csprojResolveAssemblyReference.cache
 C:\Development\Goodstub\Goodstub.Web\obj\Debug\Goodstub.Web.dll
 C:\Development\Goodstub\Goodstub.Web\obj\Debug\Goodstub.Web.pdb
+C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Common.dll
+C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Common.pdb
+C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Resources.dll
+C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Resources.pdb
+C:\Development\Goodstub\Goodstub.Web\bin\AutoMapper.dll
+C:\Development\Goodstub\Goodstub.Web\bin\AutoMapper.xml

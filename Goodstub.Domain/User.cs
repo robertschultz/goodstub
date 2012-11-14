@@ -8,8 +8,17 @@ using System.Threading.Tasks;
 
 namespace Goodstub.Domain
 {
+    /// <summary>
+    /// User class.
+    /// </summary>
     public class User : IUser
     {
+        /// <summary>
+        /// Gets or sets the id.
+        /// </summary>
+        /// <value>
+        /// The id.
+        /// </value>
         [BsonId]
         public ObjectId Id
         {
@@ -17,22 +26,53 @@ namespace Goodstub.Domain
             set;
         }
 
-        public string Username
+        /// <summary>
+        /// Gets or sets the email.
+        /// </summary>
+        /// <value>
+        /// The email.
+        /// </value>
+        public string Email
         {
             get;
             set;
         }
 
+        /// <summary>
+        /// Gets or sets the password.
+        /// </summary>
+        /// <value>
+        /// The password.
+        /// </value>
+        /// <exception cref="System.NotImplementedException"></exception>
+        public string Password
+        {
+            get;
+            set;
+        }
+
+        /// <summary>
+        /// Gets or sets the firstname.
+        /// </summary>
+        /// <value>
+        /// The firstname.
+        /// </value>
         public string Firstname
         {
             get;
             set;
         }
 
+        /// <summary>
+        /// Gets or sets the lastname.
+        /// </summary>
+        /// <value>
+        /// The lastname.
+        /// </value>
         public string Lastname
         {
             get;
             set;
-        }
+        } 
     }
 }

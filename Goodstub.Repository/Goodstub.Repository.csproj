@@ -54,10 +54,13 @@
     <Compile Include="UserRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Goodstub.Common\Goodstub.Common.csproj">
+      <Project>{4a7172a2-f45f-4f5a-a911-b860226de380}</Project>
+      <Name>Goodstub.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Goodstub.Domain\Goodstub.Domain.csproj">
       <Project>{189b943a-a3bc-42de-8ff3-13c7ee4d3d98}</Project>
       <Name>Goodstub.Domain</Name>

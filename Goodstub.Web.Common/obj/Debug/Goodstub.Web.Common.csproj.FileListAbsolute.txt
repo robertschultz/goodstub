@@ -2,3 +2,17 @@ C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\Goodstub.Web.Common.dll
 C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\Goodstub.Web.Common.pdb
 C:\Development\Goodstub\Goodstub.Web.Common\obj\Debug\Goodstub.Web.Common.dll
 C:\Development\Goodstub\Goodstub.Web.Common\obj\Debug\Goodstub.Web.Common.pdb
+C:\Development\Goodstub\Goodstub.Web.Common\obj\Debug\Goodstub.Web.Common.csprojResolveAssemblyReference.cache
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Helpers.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Mvc.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Razor.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Helpers.xml
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Mvc.xml
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.Razor.xml
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.xml
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Development\Goodstub\Goodstub.Web.Common\bin\Debug\System.Web.WebPages.Razor.xml

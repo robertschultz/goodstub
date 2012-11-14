@@ -1,5 +1,13 @@
-﻿#hero {
-    background-color: #333;
-    color: #fff;
-    background-image: -webkit-radial-gradient(center top, ellipse farthest-side, #4C4C4C 30%, #333 100%);
+#hero {
+  background-color: #333;
+  color: #fff;
+}
+
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+#login-profile-icon {
+    margin-top: 3px;
 }

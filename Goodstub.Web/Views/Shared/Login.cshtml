@@ -1,0 +1,11 @@
+﻿<div class="pull-right">
+    @if (User.Identity.IsAuthenticated) {
+        <a class="brand pull-right" href="/">@string.Format("{0} {1}", User.Firstname, User.Lastname)</a><img src="http://placehold.it/22x22" class="img-polaroid pull-right" id="login-profile-icon" />
+    } else {
+        using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @class = "navbar-form" })) {
+            <input class="span2" type="text" placeholder="@Labels.Email">
+            <input class="span2" type="password" placeholder="@Labels.Password">
+            <input type="submit" value="@Labels.SignIn" class="btn" />
+        }
+    }
+</div>

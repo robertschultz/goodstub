@@ -12,7 +12,7 @@ namespace Goodstub.Web
         public static void RegisterBundles(BundleCollection bundles)
         {
 
-            bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
+            bundles.Add(new ScriptBundle("~/content/scripts/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
 
             //bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
@@ -21,17 +21,18 @@ namespace Goodstub.Web
 
             // Use the development version of Modernizr to develop with and learn from. Then, when you're
             // ready for production, use the build tool at http://modernizr.com to pick only the tests you need.
-            bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
+            bundles.Add(new ScriptBundle("~/content/scripts/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
-            bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
+            bundles.Add(new ScriptBundle("~/content/scripts/bootstrap").Include(
                         "~/Scripts/bootstrap*"));
 
 
-            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/css/main.css"));
-            bundles.Add(new StyleBundle("~/Content/bootstrap").Include(
-                "~/Content/Css/bootstrap.css",
-                "~/Content/Css/bootstrap-responsive.css"));
+            bundles.Add(new StyleBundle("~/content/css").Include("~/Content/css/main.css"));
+            bundles.Add(new StyleBundle("~/content/css/bootstrap").Include(
+                "~/content/css/bootstrap.css",
+                "~/content/css/bootstrap-responsive.css",
+                "~/content/css/font-awesome.css"));
 
         }
     }

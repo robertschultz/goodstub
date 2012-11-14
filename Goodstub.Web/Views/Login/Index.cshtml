@@ -1,31 +1,20 @@
-﻿@model Goodbpm.Web.Models.LoginModel
-
-<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>INdex</title>
-</head>
-<body>
-    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
-    <script src="~/Scripts/jquery.validate.min.js"></script>
-    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
-    
-    @using (Html.BeginForm()) {
-        @Html.ValidationSummary(true)
-    
-        <fieldset>
-            <legend>LoginModel</legend>
-    
-            <p>
-                <input type="submit" value="Save" class="btn" />
-            </p>
-        </fieldset>
-    }
-    
-    <div>
-        @Html.ActionLink("Back to List", "Index")
-    </div>
-</body>
-</html>
+﻿@model Goodstub.Web.Models.LoginModel
+@using (Html.BeginForm()) {
+    <fieldset>
+        <legend>@Labels.Login</legend>
+        @if (!ViewData.ModelState.IsValid) {
+            <div class="alert alert-error">
+                <button type="button" class="close" data-dismiss="alert">×</button>
+                <h4>Alert</h4>
+                @Html.ValidationSummary(false)
+            </div>
+        }
+        @Html.LabelFor(model => model.Email)
+        @Html.TextBoxFor(model => model.Email, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.Password)
+        @Html.TextBoxFor(model => model.Password, new { @class = "input-xlarge" })
+        <p>
+            <input type="submit" value="@Labels.SignIn" class="btn" />&nbsp;<input type="submit" value="@Labels.CreateAccount" class="btn" />
+        </p>
+    </fieldset>
+}

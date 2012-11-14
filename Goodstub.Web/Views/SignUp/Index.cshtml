@@ -1,0 +1,24 @@
+﻿@model Goodstub.Web.Models.SignUpModel
+@using (Html.BeginForm()) {
+    <fieldset>
+        <legend>@Labels.CreateAccount</legend>
+        @if (!ViewData.ModelState.IsValid) {
+            <div class="alert alert-error">
+                <button type="button" class="close" data-dismiss="alert">×</button>
+                <h4>Alert</h4>
+                @Html.ValidationSummary(false)
+            </div>
+        }
+        @Html.LabelFor(model => model.Email)
+        @Html.TextBoxFor(model => model.Email, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.Password)
+        @Html.TextBoxFor(model => model.Password, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.Firstname)
+        @Html.TextBoxFor(model => model.Firstname, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.Lastname)
+        @Html.TextBoxFor(model => model.Lastname, new { @class = "input-xlarge" })
+        <p>
+            <input type="submit" value="@Labels.CreateAccount" class="btn" />
+        </p>
+    </fieldset>
+}
