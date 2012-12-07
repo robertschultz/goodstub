@@ -60,3 +60,7 @@ C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Resources.dll
 C:\Development\Goodstub\Goodstub.Web\bin\Goodstub.Resources.pdb
 C:\Development\Goodstub\Goodstub.Web\bin\AutoMapper.dll
 C:\Development\Goodstub\Goodstub.Web\bin\AutoMapper.xml
+C:\Development\Goodstub\Goodstub.Web\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Development\Goodstub\Goodstub.Web\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Development\Goodstub\Goodstub.Web\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Development\Goodstub\Goodstub.Web\bin\Microsoft.WindowsAzure.Diagnostics.xml

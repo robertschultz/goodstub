@@ -1,0 +1,30 @@
+﻿@model Goodstub.Web.Models.CreateModel
+@using (Html.BeginForm()) {
+    <fieldset>
+        <legend>@Labels.CreateEvent</legend>
+        @{ Html.RenderPartial("Validation"); }
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.StartDate)
+        @Html.TextBoxFor(model => model.StartDate, new { @class = "input-xlarge" })
+        @Html.LabelFor(model => model.StartTime)
+        @Html.TextBoxFor(model => model.StartTime, new { @class = "input-xlarge" })
+
+        <div class="input-append date" id="dp3" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
+  <input class="span2" size="16" type="text" value="12-02-2012">
+  <span class="add-on"><i class="icon-th"></i></span>
+</div>
+
+        <p>
+            <input type="submit" value="@Labels.CreateEvent" class="btn" />
+        </p>
+    </fieldset>
+}
+
+@section Script {
+    <script>
+        $().ready(function () {
+            $('#dp3').datepicker();
+        });
+</script>
+}

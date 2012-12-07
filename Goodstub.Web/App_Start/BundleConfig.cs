@@ -32,6 +32,7 @@ namespace Goodstub.Web
             bundles.Add(new StyleBundle("~/content/css/bootstrap").Include(
                 "~/content/css/bootstrap.css",
                 "~/content/css/bootstrap-responsive.css",
+                "~/content/css/bootstrap-datepicker.css",
                 "~/content/css/font-awesome.css"));
 
         }

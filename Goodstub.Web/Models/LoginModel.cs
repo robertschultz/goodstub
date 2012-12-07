@@ -8,7 +8,7 @@ using System.Web;
 namespace Goodstub.Web.Models
 {
     /// <summary>
-    /// Login view model.
+    /// Login model.
     /// </summary>
     public class LoginModel
     {

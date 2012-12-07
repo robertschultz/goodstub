@@ -2,13 +2,7 @@
 @using (Html.BeginForm()) {
     <fieldset>
         <legend>@Labels.Login</legend>
-        @if (!ViewData.ModelState.IsValid) {
-            <div class="alert alert-error">
-                <button type="button" class="close" data-dismiss="alert">×</button>
-                <h4>Alert</h4>
-                @Html.ValidationSummary(false)
-            </div>
-        }
+        @{ Html.RenderPartial("Validation"); }
         @Html.LabelFor(model => model.Email)
         @Html.TextBoxFor(model => model.Email, new { @class = "input-xlarge" })
         @Html.LabelFor(model => model.Password)
